@@ -1,0 +1,13 @@
+.env
+**/__pycache__/
+**/.pytest_cache/
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+.test-postgres/
+backend/models/**/*.pt
+backend/models/**/*.pdparams
+backend/models/ocr/modelo_exportado/
+backend/models/ocr/modelo_ocr_exportado/
+backend/.venv-ai/

@@ -1,0 +1,6 @@
+# PyTorch CPU and torchvision CPU are installed from the official PyTorch index in Dockerfile.
+ultralytics==8.4.218
+paddleocr==3.7.0
+paddlepaddle==3.3.1
+paddlex==3.7.2
+opencv-contrib-python==4.10.0.84

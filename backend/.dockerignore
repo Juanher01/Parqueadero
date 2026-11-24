@@ -1,0 +1,7 @@
+.venv
+.venv-ai
+__pycache__
+.pytest_cache
+models
+tests
+*.pyc
